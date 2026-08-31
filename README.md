@@ -44,7 +44,7 @@ repo contains the full analysis, code/formulas, and a detailed README.
 
 | Project | Description | Tools Used | Repo |
 |---|---|---|---|
-| **Courier Billing Reconciliation (Excel)** | Formula-driven audit comparing expected vs. billed courier charges across 124 orders — flags over/undercharged orders with zero hardcoded values | Microsoft Excel — SUMIF, INDEX, MATCH, CEILING, VALUE, IFERROR | [link](https://github.com/Dhruv-eagertolearn/courier-billing-reconciliation-excel) |
+| **Courier Billing Reconciliation (Excel)** | Formula-driven audit comparing expected vs. billed courier charges across 124 orders — flags over/undercharged orders with zero hardcoded values | Microsoft Excel — SUMIF, INDEX, MATCH, CEILING, VALUE, IFERROR | [link](https://github.com/Dhruv-eagertolearn/Courier_Reconciliation_Excel_Project.git) |
 
 ### 🗄️ SQL
 
