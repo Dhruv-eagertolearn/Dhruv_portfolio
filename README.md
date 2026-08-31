@@ -38,7 +38,7 @@ repo contains the full analysis, code/formulas, and a detailed README.
 
 | Project | Description | Tools Used | Repo |
 |---|---|---|---|
-| **Car Sales Dashboard** | Interactive dashboard tracking YTD total sales, average price, and cars sold with YoY growth, weekly sales trends, and breakdowns by dealer region, body style, and color | Tableau | [link](https://github.com/Dhruv-eagertolearn/car-sales-dashboard-tableau) |
+| **Car Sales Dashboard** | Interactive dashboard tracking YTD total sales, average price, and cars sold with YoY growth, weekly sales trends, and breakdowns by dealer region, body style, and color | Tableau | [link](https://github.com/Dhruv-eagertolearn/Data_Analysis_Tableau_Dashboard.git) |
 
 ### 📗 Excel
 
