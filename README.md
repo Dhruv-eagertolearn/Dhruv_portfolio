@@ -19,10 +19,10 @@ repo contains the full analysis, code/formulas, and a detailed README.
 
 | Category | Tools |
 |---|---|
-| Data Visualization & BI | Power BI (DAX), Tableau |
+| Data Visualization & BI | Power BI , Tableau |
 | Databases & Querying | SQL (MySQL) |
 | Programming | Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SciPy, Plotly) |
-| Spreadsheets | Microsoft Excel (formula-based modeling) |
+| Spreadsheets | Microsoft Excel |
 
 ---
 
