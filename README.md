@@ -19,7 +19,7 @@ repo contains the full analysis, code/formulas, and a detailed README.
 
 | Category | Tools |
 |---|---|
-| Data Visualization & BI | Tableau |
+| Data Visualization & BI | Power BI (DAX), Tableau |
 | Databases & Querying | SQL (MySQL) |
 | Programming | Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SciPy, Plotly) |
 | Spreadsheets | Microsoft Excel (formula-based modeling) |
@@ -27,6 +27,12 @@ repo contains the full analysis, code/formulas, and a detailed README.
 ---
 
 ## 📊 Projects
+
+### 📊 Power BI
+
+| Project | Description | Tools Used | Repo |
+|---|---|---|---|
+| **Uber Ride Booking Analysis Dashboard** | Interactive dashboard analyzing bookings, cancellations, and customer/driver ratings — tracks total bookings, completed vs. lost rides, booking value, and average ride distance across vehicle types, payment methods, and locations | Power BI — DAX measures, custom calendar table | [link](https://github.com/Dhruv-eagertolearn/Data_Analysis_power-bi_Dashboard) |
 
 ### 📈 Tableau
 
@@ -62,5 +68,5 @@ repo contains the full analysis, code/formulas, and a detailed README.
 - Data Science Course (Ongoing) — Skill Circle, 2026 – Present
 
 ## 🎯 Currently Looking For
-Data Analyst / Business Analyst roles where I can apply these skills to 
-real business problems.
+Data Analyst / Business Analyst roles and internships where I can apply 
+these skills to real business problems.
