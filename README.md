@@ -56,7 +56,6 @@ repo contains the full analysis, code/formulas, and a detailed README.
 
 | Project | Description | Tools Used | Repo |
 |---|---|---|---|
-| **Courier Billing Reconciliation (Python)** | Same real-world billing audit challenge solved via pandas — merged 5 datasets to compute expected vs. billed charges and flag discrepancies | Python — Pandas | [link](https://github.com/Dhruv-eagertolearn/courier-billing-reconciliation-python) |
 | **Zomato Restaurant Success Factors Analysis** | EDA on 211K+ Indian restaurant records to identify what drives ratings — location, cuisine, pricing, delivery, and features | Python — Pandas, NumPy, Matplotlib, Seaborn, WordCloud | [link](https://github.com/Dhruv-eagertolearn/zomato-restaurant-success-analysis) |
 | **Spotify Data Analytics Capstone** | Century-long music trend analysis (1921–2020) across 170K+ tracks, correlation analysis, and a popularity prediction model | Python — Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn (Linear Regression, Decision Tree, GridSearchCV) | [link](https://github.com/Dhruv-eagertolearn/spotify-data-analytics-capstone) |
 | **US EV Adoption & Renewable Energy Analysis** | Correlation and 30-year time-series analysis of EV adoption vs. renewable energy production across US states, with choropleth maps and predictive modeling | Python — Pandas, NumPy, Matplotlib, Seaborn, Plotly (choropleth maps), SciPy, Scikit-learn | [link](https://github.com/Dhruv-eagertolearn/us-ev-renewable-energy-capstone) |
