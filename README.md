@@ -64,7 +64,7 @@ repo contains the full analysis, code/formulas, and a detailed README.
 
 ## 🎓 Certifications & Courses
 - Data Analyst Course — Skill Circle, 2026
-- Data Science Course (Ongoing) — Skill Circle, 2026 – Present
+- Data Science Course — Skill Circle, 2026
 
 ## 🎯 Currently Looking For
 Data Analyst / Business Analyst roles and internships where I can apply 
