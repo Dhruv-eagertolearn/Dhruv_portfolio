@@ -2,10 +2,7 @@
 
 # Hi, I'm Dhruv Sharma 👋
 
-Final-semester BCA student with hands-on skills in **SQL, Power BI, Tableau, 
-Python, and Excel**. I enjoy the full journey of working with data — cleaning 
-it, querying it, visualizing it, and turning it into insights that are 
-actually useful for decision-making.
+BCA graduate with hands-on skills in **SQL, Power BI, Tableau, Python, and Excel**. I enjoy the full journey of working with data: cleaning it, querying it, visualizing it, and turning it into insights that are actually useful for decision-making.
 
 This repository is an index of my data analytics portfolio — each linked 
 repo contains the full analysis, code/formulas, and a detailed README.
